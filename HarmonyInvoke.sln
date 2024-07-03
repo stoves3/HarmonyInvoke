@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarmonyInvoke", "HarmonyInvoke\HarmonyInvoke.csproj", "{4F9C26EC-C5FC-43FF-8B50-9F8248FA1EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarmonyInvokeInfrastructure", "HarmonyInvokeInfrastructure\HarmonyInvokeInfrastructure.csproj", "{BF0B154B-DB79-4FC4-82F7-F1128C96EEB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9C26EC-C5FC-43FF-8B50-9F8248FA1EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9C26EC-C5FC-43FF-8B50-9F8248FA1EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9C26EC-C5FC-43FF-8B50-9F8248FA1EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9C26EC-C5FC-43FF-8B50-9F8248FA1EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0B154B-DB79-4FC4-82F7-F1128C96EEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0B154B-DB79-4FC4-82F7-F1128C96EEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0B154B-DB79-4FC4-82F7-F1128C96EEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0B154B-DB79-4FC4-82F7-F1128C96EEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A9C1D8-E440-4AE8-8A96-80B19D0DEDC4}
+	EndGlobalSection
+EndGlobal
